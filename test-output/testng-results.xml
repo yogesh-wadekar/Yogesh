@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-01T16:22:41 IST" name="Default suite" finished-at="2022-07-01T16:22:48 IST" duration-ms="7383">
+    <groups>
+    </groups>
+    <test started-at="2022-07-01T16:22:41 IST" name="Default test" finished-at="2022-07-01T16:22:48 IST" duration-ms="7383">
+      <class name="test.ZerodhaLoginPageTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:test.ZerodhaLoginPageTest@4fb3ee4e]" started-at="2022-07-01T16:22:41 IST" name="openBrowser" finished-at="2022-07-01T16:22:47 IST" duration-ms="5522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="loginPageTest(java.lang.String,java.lang.String)[pri:0, instance:test.ZerodhaLoginPageTest@4fb3ee4e]" started-at="2022-07-01T16:22:47 IST" name="loginPageTest" data-provider="yogesh" finished-at="2022-07-01T16:22:48 IST" duration-ms="1802" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[YA9863]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[yogesh2709]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTest -->
+      </class> <!-- test.ZerodhaLoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
